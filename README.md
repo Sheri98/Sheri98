@@ -3,7 +3,7 @@
 
 ### Hi Everyone :smile:
   ![Infosec Guy's github stats](https://github-readme-stats.vercel.app/api?username=Sheri98&show_icons=true&theme=merko)
-- 🔭 I'm currently working as SOC analyst in a MNC.
+- 🔭 I'm going to working as a SOC analyst in a MNC.
 - 🌱 I’m currently learning Reversing, Pentesting, & Django Development. 
 - 👯 I’m looking to collaborate and study on cybersecurity.
 - 🤔 I’m looking for help with Reveresing and CTFs.
