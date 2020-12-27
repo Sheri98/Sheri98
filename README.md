@@ -1,4 +1,4 @@
-![banner](https://github.com/dsp9107/dsp9107/blob/master/make%20it%20happen.png)
+![banner](https://github.com/Sheri98/Sheri98/blob/master/make%20it%20happen.png)
 
 ### Namaste :smile:
 
