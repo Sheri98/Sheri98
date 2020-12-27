@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Reversing, Pentesting, & Django Development ✨ 
 - 👯 I’m looking to collaborate and study on cybersecurity 📝
 - 🤔 I’m looking for help with Reversing and CTFs 🤔
-- 💬 Ask me about how to start in cybersecurity/Networking/WebDevelopment/CTFs 🔥 
-- 📫 How to reach me: [email](mailto:shravankumarsheri39@protonmail.com) or check out [my website](https://sheri98.github.io) :smile 
+- 💬 Ask me about how to start in Cybersecurity Networking WebDevelopment and CTFs 🔥 
+- 📫 How to reach me: [email](mailto:shravankumarsheri39@protonmail.com) or check out [my website](https://sheri98.github.io) :smile:
 ## I would love to Collaborate on security Projects, Playing CTFs Pentesting & Reversing for Sure ! ✨
 
