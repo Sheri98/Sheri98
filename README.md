@@ -1,4 +1,5 @@
 <img src="https://github.com/Sheri98/Sheri98/blob/main/548fae453086e729c1c3892c00a68a7a.png" alt="alt text" width="500" height="400">
+<img src="https://github-readme-stats.vercel.app/api?username=Sheri98&show_icons=true&theme=merko" alt="alt text" width="500" height="400">
 
 ![Sheri98's github stats](https://github-readme-stats.vercel.app/api?username=Sheri98&show_icons=true&theme=merko)
 
