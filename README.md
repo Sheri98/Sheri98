@@ -1,4 +1,4 @@
-![banner](https://github.com/Sheri98/Sheri98/blob/main/548fae453086e729c1c3892c00a68a7a.png?v=4&s=200)
+![banner](https://github.com/Sheri98/Sheri98/blob/main/548fae453086e729c1c3892c00a68a7a.png?v=4&s=100)
 ![](https://komarev.com/ghpvc/?username=Sheri98&color=blue)
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
