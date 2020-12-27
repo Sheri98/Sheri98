@@ -1,6 +1,6 @@
-![banner](https://github.com/Sheri98/Sheri98/blob/main/548fae453086e729c1c3892c00a68a7a.png) ![Infosec Guy's github stats](https://github-readme-stats.vercel.app/api?username=Sheri98&show_icons=true&theme=merko)
+![banner](https://github.com/Sheri98/Sheri98/blob/main/548fae453086e729c1c3892c00a68a7a.png)
 ### Hi Everyone :smile:
-
+  ![Infosec Guy's github stats](https://github-readme-stats.vercel.app/api?username=Sheri98&show_icons=true&theme=merko)
 - 🔭 I'm currently working as SOC analyst in a MNC.
 - 🌱 I’m currently learning Reversing, Pentesting, & Django Development. 
 - 👯 I’m looking to collaborate and study on cybersecurity.
