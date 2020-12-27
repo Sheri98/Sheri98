@@ -1,5 +1,5 @@
 ![banner](https://github.com/Sheri98/Sheri98/blob/main/548fae453086e729c1c3892c00a68a7a.png)
-
+![Infosec Guy's github stats](https://github-readme-stats.vercel.app/api?username=Sheri98&show_icons=true&theme=merko)
 ### Hi Everyone :smile:
 
 - 🔭 I'm currently working as SOC analyst in a MNC.
