@@ -1,6 +1,6 @@
 ![banner](https://github.com/Sheri98/Sheri98/blob/main/548fae453086e729c1c3892c00a68a7a.png?v=4&s=500)
 ![](https://komarev.com/ghpvc/?username=Sheri98&color=blue)
-[![Astounding](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 
 ![Sheri98's github stats](https://github-readme-stats.vercel.app/api?username=Sheri98&show_icons=true&theme=merko)
