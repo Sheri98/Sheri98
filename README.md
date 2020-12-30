@@ -3,7 +3,6 @@
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 
-![Sheri98's github stats](https://github-readme-stats.vercel.app/api?username=Sheri98&show_icons=true&theme=merko)
 
 ### Hi Geeks :smile:
 
