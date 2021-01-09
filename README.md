@@ -6,7 +6,7 @@
 
 ### Hi Geeks :smile:
 
-- 🔭 I'm going to work as a SOC analyst in a MNC 🌟
+- 🔭 I'm working as a SOC analyst in a MNC 🌟
 - 🌱 I’m currently learning Reversing, Pentesting, & Django Development ✨ 
 - 👯 I’m looking to collaborate and study on cybersecurity 📝
 - 🤔 I’m looking for help with Reversing and CTFs 🤔
