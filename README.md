@@ -6,11 +6,11 @@
 
 ### Hi Geeks :smile:
 
-- 🔭 I'm working as a SOC analyst in a MNC 🌟
-- 🌱 I’m currently learning Reversing, Pentesting, & Django Development ✨ 
+- 🔭 I'm working as a SOC Engineer 🌟
+- 🌱 I’m currently learning Reversing, Malware Analysis, Security Administration of SOC tools ✨ 
 - 👯 I’m looking to collaborate and study on cybersecurity 📝
 - 🤔 I’m looking for help with Reversing and CTFs 🤔
-- 💬 Ask me about how to start in Cybersecurity Networking WebDevelopment and CTFs 🔥 
+- 💬 Ask me about how to start in Cybersecurity 🔥 
 - 📫 How to reach me: [email](mailto:shravankumarsheri39@protonmail.com) or check out [my website](https://sheri98.github.io) :smile:
 ## I would love to Collaborate on security Projects, Playing CTFs Pentesting & Reversing for Sure ! ✨
 
