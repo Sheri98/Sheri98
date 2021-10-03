@@ -6,8 +6,8 @@
 
 ### Hi Geeks :smile:
 
-- 🔭 I'm working as a SOC Engineer 🌟
-- 🌱 I’m currently learning Reversing, Malware Analysis, Security Administration of SOC tools ✨ 
+- 🔭 I'm working as a Incident Response and Security Automation Engineer 🌟
+- 🌱 I’m currently Improve skills in Deployment of custom security tools, Malware Analysis, Security Administration of SOC tools ✨ 
 - 👯 I’m looking to collaborate and study on cybersecurity 📝
 - 🤔 I’m looking for help with Reversing and CTFs 🤔
 - 💬 Ask me about how to start in Cybersecurity 🔥 
