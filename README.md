@@ -13,7 +13,7 @@ I'm Shravan Kumar Sheri, a full-time Cybersecurity Graduate Student at the Unive
 
 ## 💼 Work Experience
 
-- Cyber Security Engineer, FICO (20 months)
+- Cyber Security Engineer, FICO (24 months)
 
 ## 🌟 Skills
 
