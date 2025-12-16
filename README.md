@@ -1,51 +1,37 @@
-![banner](https://github.com/Sheri98/Sheri98/blob/main/548fae453086e729c1c3892c00a68a7a.png?v=4&s=500)
+# Shravan Kumar Sheri
 
-![](https://komarev.com/ghpvc/?username=Sheri98&color=blue)
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+Security Engineer | Offensive Security | Red Teaming
 
-# Hello, fellow geeks! 👋
+[LinkedIn](https://www.linkedin.com/in/shravankumarsheri/) • [Email](mailto:shravankumarsheri39@gmail.com)
 
-Myself, Shravan Kumar Sheri, 
-I am Passionate about breaking systems to make them stronger. My journey in cybersecurity revolves around application security, red teaming, and uncovering vulnerabilities in evolving technologies. Whether it's breaking LLMs, developing stealth malware, or navigating the complexities of cloud security, I thrive on pushing the boundaries of what's possible.
+---
 
-With a unique blend of offensive security skills and a relentless curiosity, I aim to stay ahead of emerging threats and contribute to a more secure digital landscape
+## About
 
-## 🎓 Education
+Security engineer focused on offensive security and building tools when existing ones don't cut it. Currently at Bureau Veritas, previously FICO. UMD Cybersecurity grad.
 
-- Master's degree in Cybersecurity, University of Maryland
-- Bachelor's degree in Computer Science with a minor in Information Security
+Lately: Windows kernel driver security and LLM red teaming.
 
-## 💼 Work Experience
+---
 
-- Cyber Security Engineer, FICO (24 months)
-- Red Team Intern, FICO (8 months)
-- Security Engineer, Security Innovation (1 year+) -- Current Company
+## Projects
 
-## 🌟 Skills
+| Project | Description |
+| :--- | :--- |
+| **Driver Hunting Framework** | Automated Windows kernel driver analysis — headless Ghidra decompilation, IOCTL extraction, structure-aware fuzzing to catch what EDRs miss |
+| **API AuthZ Tester** | Python tool for IDOR/BOLA testing across large API surfaces. Built it because manual authZ testing on 100+ endpoints doesn't scale |
+| **AWS Adversary Emulation** | Methodology that found a CVSS 9.0 chain (open S3 → RCE) in production |
+| **Phishing Simulation Lab** | Reverse proxy infrastructure for testing SOC detection against real adversary TTPs |
 
-- Application Security
-- Red Teaming & Adversary Simulation
-- Penetration Testing
-- Cloud Security (AWS-focused)
-- Malware Development & Evasion Techniques
-- Threat Modeling & Risk Assessment
-- Windows Internals & Active Directory Attacks
-- Security Automation & Tool Development
-- Security Reporting & Remediation Guidance
+---
 
-## 🤝 Collaboration
+## Writing
 
-I'm eager to collaborate on security projects, play CTFs, and learn more about penetration testing and reversing. Don't hesitate to reach out if you'd like to team up!
+- [AWS Black Box Pentesting Methodology](https://www.securityinnovation.com/wp-content/uploads/2025/04/AWS-Pen-Testing-Methodology-WHITEPAPER_4-16-25.pdf) — Full-scope black-box approach to AWS assessments
+- [Malware Analysis Review](https://ijrar.org/viewfull.php?&p_id=IJRAR21D1641) — Structured forensic analysis methodology
 
-## 📚 Learning
+---
 
-I'm currently working on improving my skills in:
+## Certs
 
-- Red Teaming
-- AI
-## 📚 Future Scope
-I would like to do research on Quantum Ccomputing and it's applications towards cybersecurity
-
-## 📫 Contact
-
-Feel free to reach out to me via [email](mailto:shravankumarsheri39@gmail.com) or [LinkedIn](https://www.linkedin.com/in/shravankumarsheri/).
+OSCP | CRTP | eCXD | Security+ | CRTO (in-progress)
